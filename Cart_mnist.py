@@ -31,6 +31,7 @@ clf.fit(train_ss_x,train_y)
 predict_y = clf.predict(test_ss_x)
 print('CART算法准确率: %0.4lf' % accuracy_score(test_y, predict_y))
 
+#以下为输出结果部分
 (1797, 64)
 [[ 0.  0.  5. 13.  9.  1.  0.  0.]
  [ 0.  0. 13. 15. 10. 15.  5.  0.]

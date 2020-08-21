@@ -21,4 +21,5 @@ lr.fit(train_ss_x, train_y)
 predict_y=lr.predict(test_ss_x)
 print('LR准确率: %0.4lf' % accuracy_score(test_y, predict_y))
 
+#以下为输出结果部分
 LR准确率: 0.9600

@@ -123,3 +123,6 @@ test_size:0.37, CART算法准确率: 0.8241
 test_size:0.38, CART算法准确率: 0.8463
 test_size:0.39, CART算法准确率: 0.8388
 test_size:0.40, CART算法准确率: 0.8359'''
+
+
+
